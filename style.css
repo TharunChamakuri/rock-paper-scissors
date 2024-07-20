@@ -46,12 +46,12 @@ img {
     cursor:pointer;
 }
 .msg-container {
-   display:flex;
-   justify-content:center;
-   align-items:center;
-   margin-top:30px;
-}
-#message {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:30px;
+ }
+ #message {
     background-color:blueviolet;
     display:inline;
     padding:15px;
